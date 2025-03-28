@@ -1,0 +1,1 @@
+# mush-get-started
