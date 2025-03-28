@@ -1,1 +1,1 @@
-# mush-get-started
+# Mush Get Started
