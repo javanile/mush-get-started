@@ -3,7 +3,7 @@
 Welcome to the **Mush Get Started** hackathon! 🚀
 
 ## 🌟 Mission
-Your mission is to create a command-line program that is useful in the Docker or DevOps world. You can develop any tool that simplifies daily operations, such as:
+Your mission is to create a command-line program that is useful in the Docker or DevOps world. You **must use Mush** and write code following the **Mush standard**. You can develop any tool that simplifies daily operations, such as:
 
 - A tool that stops all running Docker containers.
 - A tool that cleans up unused Docker containers from the system.
