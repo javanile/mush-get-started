@@ -19,11 +19,10 @@ Feel free to explore and innovate with your idea!
    ```sh
    curl get.javanile.org/mush | sh
    ```
-4. **Initialize the project** by running:
+4. **Initialize the project** by running init inside your project directory.
    ```sh
    mush init
    ```
-   inside your project directory.
 6. **Develop your tool**.
 7. **Write a clear README.md** to explain how your tool works.
 8. **Implement a GitHub Action** to automate tests or other useful tasks.
