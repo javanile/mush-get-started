@@ -33,7 +33,7 @@ Feel free to explore and innovate with your idea!
 ## 🔗 Useful Resources
 - [Mush for DevOps](https://mush.javanile.org/)
 - [Docker Documentation](https://docs.docker.com/)
-- [Bash Scripting Guide](https://linuxize.com/post/bash-scripting-tutorial/)
+- [Bash Scripting Guide](https://mush.javanile.org/guidelines/)
 - [DevOps Best Practices](https://www.atlassian.com/devops)
 
 Happy coding and enjoy the hackathon! 💻🔥
