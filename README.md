@@ -34,6 +34,6 @@ Feel free to explore and innovate with your idea!
 - [Mush for DevOps](https://mush.javanile.org/)
 - [Docker Documentation](https://docs.docker.com/)
 - [Bash Scripting Guide](https://mush.javanile.org/guidelines/)
-- [DevOps Best Practices](https://www.atlassian.com/devops)
+- [DevOps Best Practices](https://jeewansooriyaarachchi.medium.com/useful-cli-tools-for-devops-engineers-9135db91725b)
 
 Happy coding and enjoy the hackathon! 💻🔥
