@@ -28,7 +28,7 @@ Feel free to explore and innovate with your idea!
 8. **Implement a GitHub Action** to automate tests or other useful tasks.
 9. **Commit and push** your code to your repository.
 10. **Invite your friends** to star ⭐ your project!
-11. **Check the [leaderboard](https://www.javanile.org/hackathon/) daily** to see if you're in the top spot and win your prize! 🏆
+11. **Check the [leaderboard](https://www.javanile.org/hackathon/#leaderboard) daily** to see if you're in the top spot and win your prize! 🏆
 
 ## 🔗 Useful Resources
 - [Mush for DevOps](https://mush.javanile.org/)
